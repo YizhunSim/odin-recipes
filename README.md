@@ -1,2 +1,3 @@
 # odin-recipes
-odin project - Creation of a receipe page
+
+The project is based of on the Odin Project, foundational lessons to learn about HTML and CSS.
